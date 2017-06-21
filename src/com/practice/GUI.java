@@ -68,7 +68,7 @@ public class GUI extends JFrame {
 	public GUI() {
 		setResizable(false);
 
-		setTitle("口算生成器 -Java8-刘岩");
+		setTitle("口算生成器");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, WINDOW_WIDTH, WINDOW_HEIGHT);
 		contentPane = new JPanel();
